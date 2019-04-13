@@ -1,6 +1,6 @@
 package com.class20;
 public class AccessModifiers {
-    private String name="John";
+    private String name="John";// instance and global variables
     String name1="Bilal";
     protected String name2="Asha";
     public String name3="Tetiana";

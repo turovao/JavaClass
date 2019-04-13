@@ -5,7 +5,7 @@ public class InstanceVariables {
 	//instance = global
 	
 		//local
-		private String name="John";//instance variable can have access modifiers
+		protected String name="John";//instance variable can have access modifiers
 		
 		public static void main(String[] args) {
 			
@@ -23,6 +23,9 @@ public class InstanceVariables {
 			//creating second object
 			InstanceVariables obj1=new InstanceVariables();
 			System.out.println(obj1.name);
+		}
+		public void hello() {
+			System.out.println();
 		}
 	}
 	
