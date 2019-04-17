@@ -9,6 +9,9 @@ public class Parent {
 	public void sing() {
 		System.out.println("We can sing");
 	}
+	public void dance() {
+		System.out.println("We can dance");
+	}
 }
 
 

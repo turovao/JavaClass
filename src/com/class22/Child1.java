@@ -12,6 +12,7 @@ public class Child1 extends Parent{
 		System.out.println("Child 1 has "+childObject.nose+" nose");
 		childObject.sing();
 		childObject.playTennis();
+		System.out.println(childObject.hairType);
 		
 		Parent parentObject=new Parent();
 		//parentObject.hairType --> not accessible in Parent Class

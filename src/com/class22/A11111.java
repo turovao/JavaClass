@@ -3,20 +3,22 @@ package com.class22;
 //Inside your class also have a method to Calculate Average Grade. Test Student class for 
 //5 different students with different marks. Your program should print an average mark of each 
 //students name.
-//NOTE: please male different names for instance and local variables. (edited) 
+//NOTE: please make different names for instance and local variables. (edited) 
 
-public class TaskTwo {
-	String name;
-	int grades;
+public class A11111 {
 	
+	String studentName;
+	int grade a;
+	int gerade b , int gerade c;
 	
-	public TaskTwo(String name){
-		System.out.println("My name is"+name+"and my avarge is");
+	public A11111() {
 		
 	}
-	int findAvarage (int a, int b, int c) {
-		return (a+b+c)/3;
-		
-		
+	
+	public void getStudentDetails() {
+		System.out.println("My name is "+studentName+"and my grade is"+studentGrade);
 	}
+	
+	
+
 }

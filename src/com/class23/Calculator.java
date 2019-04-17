@@ -1,4 +1,9 @@
 package com.class23;
+//Create 1 class in which create a methods that will calculate the area of
+//rectangle
+//square
+//cube
+//Use separate class to test your code
 
 public class Calculator {
 	/*area of rectangle - width* length(5*4)

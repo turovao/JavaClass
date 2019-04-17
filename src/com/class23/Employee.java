@@ -2,8 +2,8 @@ package com.class23;
 
 public class Employee {
 	protected static String department="IT";
-	protected int salary;
-     int salary1;
+	protected int salary1;
+    int salary;
 	public void getPaid() {
 		System.out.println("Employee get's paid " + salary);
 	}

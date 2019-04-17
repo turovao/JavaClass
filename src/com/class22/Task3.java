@@ -3,5 +3,5 @@ package com.class22;
 //class: 1 - inside same class; 2 - from outside the class.
 
 public class Task3 {
-
+//Constractor can be private only within a class
 }

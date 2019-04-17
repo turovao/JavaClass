@@ -20,6 +20,7 @@ public class Test {
 		System.out.println("---Creating Developer object---");
 		Developer dev =new Developer();
 		dev.salary=120000;
+		Developer.work();// Static access through inheritamce
 		dev.getPaid();
 		dev.artifacts="Sprit backlog";
 		dev.ceremonies="Sprit grooming, Sprint Planning, Daily StandUp, Sprint Demo, Sprint Retro";
