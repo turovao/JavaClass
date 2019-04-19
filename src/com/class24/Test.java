@@ -5,7 +5,7 @@ public class Test {
 	public int test(double a){
 		//System.out.println("I am public method");
 		return 5;
-	}
+	}g
 	
 	public void test(){
 		System.out.println("I am public method");

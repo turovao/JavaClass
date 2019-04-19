@@ -1,6 +1,5 @@
 package com.class24;
 //1. Create four classes (Person, Employee, Student, Retiree)
-
 //
 //* Have properties
 //For Person: name(String)
@@ -22,17 +21,14 @@ package com.class24;
 //Joe Smith 35 35000
 //Adam Smith 15 10
 //Frank Smith 15 tour
+//class Main{
 
-public class Employee extends Person {
-	
-	 int salary;
+public class Person {
 
-public void employee() {
-	
-	 System.out.println(name+" "+lastName+" "+age+" "+salary);
-			
-	
-	
-	
+	 String name;
+	 String lastName;
+	 int age;
 
-}}
+
+
+	}

@@ -22,17 +22,17 @@ package com.class24;
 //Joe Smith 35 35000
 //Adam Smith 15 10
 //Frank Smith 15 tour
+//class Main{
 
-public class Employee extends Person {
+public class Student extends Person {
 	
-	 int salary;
+	 int grade;
+		
+		
+		public void student() {
+		
+		 System.out.println(name+" "+lastName+" "+age+" "+grade);
 
-public void employee() {
-	
-	 System.out.println(name+" "+lastName+" "+age+" "+salary);
-			
-	
-	
-	
+	}}
 
-}}
+
